@@ -6,7 +6,7 @@
 
 🙋‍♂️ "Sadaqat Panhwer" is Founder and MD at HSDC developer community : 👉 www.hsdc.tech.
 
-🙌 Connect with "Sadaqat Panhwer" , on all social platforms i.e LinkedIn and Facebook,
+🙌 Connect with "Sadaqat Panhwer" , on social platforms i.e LinkedIn and Facebook,
 
 👉 https://www.linkedin.com/in/sadaqat-panhwer-47614615a/
 👉 https://www.facebook.com/sadaqatsap/
