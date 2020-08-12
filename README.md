@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+👨‍💻 "Sadaqat Panhwer" is a Android Developer.
+
+👨‍🎓 "Sadaqat Panhwer" is final year student, doing BS Computer Science from University of Sindh, Jamshoro.
+
+🙋‍♂️ "Sadaqat Panhwer" is Founder and MD at HSDC developer community : 👉 www.hsdc.tech.
+
+🙌 Connect with "Sadaqat Panhwer" , on all social platforms i.e LinkedIn and Facebook,
+
+👉 https://www.linkedin.com/in/sadaqat-panhwer-47614615a/
+👉 https://www.facebook.com/sadaqatsap/
+
+💁‍♂️ More about "Sadaqat Panhwer" : 👉 https://panhwersadaqat.github.io/
+
+🙏♥️ Thank you for visiting my profile.
 <!--
 **panhwersadaqat/panhwersadaqat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
