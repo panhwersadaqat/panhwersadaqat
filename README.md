@@ -6,9 +6,11 @@
 
 🙋‍♂️ "Sadaqat Panhwer" is Founder and MD at HSDC developer community : 👉 www.hsdc.tech.
 
+🙋‍♂️ "Sadaqat Panhwer" is DSC Lead at Developer Student Clubs - University of Sindh powered by Google Developers.
+
 🙌 Connect with "Sadaqat Panhwer" , on social platforms i.e LinkedIn and Facebook,
 
-👉 https://www.linkedin.com/in/sadaqat-panhwer-47614615a/
+👉 https://www.linkedin.com/in/panhwersadaqat/
 👉 https://www.facebook.com/sadaqatsap/
 
 💁‍♂️ More about "Sadaqat Panhwer" : 👉 https://panhwersadaqat.github.io/
