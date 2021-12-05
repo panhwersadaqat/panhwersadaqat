@@ -4,9 +4,9 @@
 
 👨‍🎓 "Sadaqat Panhwer" is final year student, doing BS Computer Science from University of Sindh, Jamshoro.
 
-🙋‍♂️ "Sadaqat Panhwer" is Founder and MD at HSDC developer community : 👉 www.hsdc.tech.
+🙋‍♂️ "Sadaqat Panhwer" is Founder and MD at HSDC developer community : 👉 https://hsdc-web.web.app/.
 
-🙋‍♂️ "Sadaqat Panhwer" is DSC Lead at Developer Student Clubs - University of Sindh powered by Google Developers.
+🙋‍♂️ "Sadaqat Panhwer" is former GDSC Lead at - University of Sindh powered by Google Developers.
 
 🙌 Connect with "Sadaqat Panhwer" , on social platforms i.e LinkedIn and Facebook,
 
