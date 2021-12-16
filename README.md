@@ -2,9 +2,9 @@
 
 👨‍💻 "Sadaqat Panhwer" is a Android Developer.
 
-👨‍🎓 "Sadaqat Panhwer" is final year student, doing BS Computer Science from University of Sindh, Jamshoro.
+👨‍🎓 "Sadaqat Panhwer" has done BS Computer Science from University of Sindh, Jamshoro.
 
-🙋‍♂️ "Sadaqat Panhwer" is Founder and MD at HSDC developer community : 👉 https://hsdc-web.web.app/.
+🙋‍♂️ "Sadaqat Panhwer" is Founder and Lead at HSDC developer community : 👉 https://hsdc-web.web.app/.
 
 🙋‍♂️ "Sadaqat Panhwer" is former GDSC Lead at - University of Sindh powered by Google Developers.
 
